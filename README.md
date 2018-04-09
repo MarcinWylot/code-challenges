@@ -7,6 +7,7 @@ The Challenge creates a foundation for further onsite collaboration during your 
 ## Links To Specific Challenges
 
 - [Software Engineer Challenge](/software-engineer-challenge.md)
+- [Front-End Engineer Challenge](/frontend-engineer-challenge.md)
 
 ## How to complete a Challenge
 
