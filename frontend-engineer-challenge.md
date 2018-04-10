@@ -40,6 +40,23 @@ It should render a *scatter plot chart* where:
 * `Y` axis is Volume (24h)
 * `Z` axis (or size of the point) is absolute price change (24h)
 
+```
+  |
+  |                                     *
+  |                                *
+V |                  *        *        *
+o |                       *
+l |              *           *  *
+u |     *           *  *      *      *
+m |               *         *
+e |        *   *      *         *
+  |              *       *
+  |           *      *
+  |  *
+  +---------------------------------------------
+                   Market Cap
+```
+
 Chart should be interactive – when hover over the point, it should display a tooltip with information like (`name`, `marketcap`, `volume` & `price change`).
 
 Each point represents one coin.
