@@ -8,6 +8,7 @@ The Challenge creates a foundation for further onsite collaboration during your 
 
 - [Software Engineer Challenge](/software-engineer-challenge.md)
 - [Front-End Engineer Challenge](/frontend-engineer-challenge.md)
+- [Data Scientist Challenge](/data-scientist-challenge.md)
 
 ## How to complete a Challenge
 
